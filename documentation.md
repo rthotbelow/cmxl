@@ -13,13 +13,18 @@ Seems simple right?
 
 ## Actual Documentation
 * `log <arg>` = `log "hello world"` This prints a string.
+* `##<arg>` = `##testcomment` This is for comments, these are ingored and never executed.
 
 ## Not actually added yet but more like a work in progress
 * `import <arg>` = `import "testmodule"` This imports a module.
 *
 ```
+                                                         ##|
+                                                         ##V
+                                               ##The string is optional
 func <arg><arg1> {                  func "testfunction"(string1) {
                            =        
 }                                   }
 ``` 
 This creates a new function.
+* `call <arg><arg1>` = `call testfunction "123"` This executes the given function. **The string is optional**

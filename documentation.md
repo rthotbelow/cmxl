@@ -13,7 +13,7 @@ Seems simple right?
 
 ## Actual Documentation
 * `log <arg>` = `log "hello world"` This prints a string.
-* `##<arg>` = `##testcomment` This is for comments, these are ingored and never executed.
+* `##<arg>` = `##testcomment` These are comments, they are useful for pointing things out.
 
 ## Not actually added yet but more like a work in progress
 * `import <arg>` = `import "testmodule"` This imports a module.

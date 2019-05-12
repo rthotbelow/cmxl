@@ -83,5 +83,27 @@ But we now look kind of like basic lol
 
 
 
+Documentation
+==============
+* `log <arg>` = `log "hello world"`
+
+
+
+
+I know it's small, but were just starting with a simple print command.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 But yeah, this is the first programming language ive written. If you don't like this programming language then maybe tell me why and not just "I hate it!", actual criticism please. ^^"
